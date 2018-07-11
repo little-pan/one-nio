@@ -8,3 +8,9 @@
 
 .idea
 *.iml
+/target/
+
+.settings/
+.classpath
+.project
+.travis.yml
